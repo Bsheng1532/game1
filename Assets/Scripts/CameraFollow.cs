@@ -10,7 +10,7 @@ public class CameraFollow : MonoBehaviour
 
     void Start()
     {
-        // Store the starting Y position of the camera
+        
         fixedY = transform.position.y;
     }
 

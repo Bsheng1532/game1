@@ -28,10 +28,5 @@ public class PauseManager : MonoBehaviour
         isPaused = true;
     }
 
-    public void QuitGame()
-    {
-        // Optional: load main menu or quit
-        Debug.Log("Quit Game");
-        // Application.Quit(); or SceneManager.LoadScene("MainMenu");
-    }
+    
 }
